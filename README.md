@@ -2,9 +2,6 @@
 <a href="https://github.com/Renan-Thierry">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renan-Thierry&layout=compact&langs_count=7&theme=dracula" />
 </a>
-<a href="https://github.com/Renan-Thierry">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renan-Thierry&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</a>
 <div align="center">
   <a href="https://github.com/Renan-Thierry">
   <img height="160em" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renan-Thierry&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
