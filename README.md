@@ -24,7 +24,7 @@
   ![Snake animation](https://github.com/Renan-Thierry/Renan-Thierry/blob/output/github-contribution-grid-snake.svg)
 </div>
 <div align="center">
-<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<br><p align="center"><b>Contador de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Renan-Thierry}/count.svg" /></p> 
 <br>
 </div>
