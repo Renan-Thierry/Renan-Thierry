@@ -22,5 +22,10 @@
   <a href = "https://wa.me/qr/O2N2POHLSUQON1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
  
   ![Snake animation](https://github.com/Renan-Thierry/Renan-Thierry/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+<div align="center">
+<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Renan-Thierry}/count.svg" /></p> 
+<br>
+</div>
+
