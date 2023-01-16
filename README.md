@@ -4,11 +4,6 @@
 <a href="https://github.com/Renan-Thierry">
   <img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renan-Thierry&layout=compact&langs_count=7&theme=dracula" />
 </a>
-<div align="center">
-  <a href="https://github.com/Renan-Thierry">
-  <img height="160em" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renan-Thierry&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renan-Thierry&layout=compact&langs_count=7&theme=radical"/>
-</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Renan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
