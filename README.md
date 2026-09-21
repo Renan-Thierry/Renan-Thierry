@@ -1,31 +1,73 @@
-<a href="https://github.com/Renan-Thierry">
-<img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Renan-Thierry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/Renan-Thierry">
-  <img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renan-Thierry&layout=compact&langs_count=7&theme=dracula" />
-</a>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Renan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Renan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Renan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
-  
-  ##
-  
-  <div> 
-  <a href="https://www.instagram.com/_renanthierry_/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:re.thyerry698@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/renan-thierry-99b957211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://wa.me/qr/O2N2POHLSUQON1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
- 
-  ![Snake animation](https://github.com/Renan-Thierry/Renan-Thierry/blob/output/github-contribution-grid-snake.svg)
-</div>
-<div align="center">
-<br><p align="center"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Renan-Thierry}/count.svg" /></p> 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
+
+#
+
+<div>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+### 👋 Hey, I'm Renan Thierry!
+
+💻 **Full Stack Developer** passionate about building modern, scalable, and user-focused web applications.
+
+🚀 I work with **React, TypeScript, Node.js, and REST APIs**, turning ideas into practical and efficient solutions.
+
+🛠️ Always learning, exploring new technologies, and improving my craft.
+
+<br clear="right"/>
+
 </div>
 
+
+#
+
+<h3 align="left">GitHub Stats</h3> 
+<div align="center">
+  <img width="33%" height="180" src="https://github-stats-extended.vercel.app/api?username=Renan-Thierry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="33%" height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Renan-Thierry&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  <img width="33%" height="180" src="https://streak-stats.demolab.com?user=Renan-Thierry&theme=dracula&hide_border=true"/>
+
+</div>
+
+#
+
+<h3 align="left">My Stacks</h3> 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,nestjs,postgres,supabase,git,gitlab,docker,figma&theme=dark" />
+
+</div>
+
+#
+
+<h3 align="left">My Contributions</h3> 
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renan-Thierry/Renan-Thierry/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renan-Thierry/Renan-Thierry/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Renan-Thierry/Renan-Thierry/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+
+#
+
+<h3 align="left">Where to find me</h3>
+<div align="center">
+<a href="https://www.linkedin.com/in/renan-thierry-99b957211/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/_renanthierry_/?hl=en">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="150" height="40"/>
+</a>
+
+<a href="mailto:re.thyerry698@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="150" height="40"/>
+</a>
+
+<a href="https://wa.me/qr/O2N2POHLSUQON1">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="150" height="40"/>
+</a>
+</div>
+</div>
